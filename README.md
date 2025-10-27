@@ -18,14 +18,6 @@
 
 <div style="position: relative; background: linear-gradient(45deg, #0a0a0a, #1a1a2e, #16213e); background-size: 400% 400%; animation: gradient 15s ease infinite; padding: 20px; border-radius: 15px;">
 
-<style>
-@keyframes gradient {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
-
 # Меня зовут: Платон!
 
 ## ИЗУЧАЮ HTML/CSS/PYTHON/JS/C++
