@@ -6,10 +6,6 @@
 -  Цель на 2024: Внести вклад в крупный Open Source проект.
 -  Отдыхаю за: Игрой на гитаре и походами в горы.
 
-### Мой стек и инструменты:
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-
 
 ###  Где меня найти:
 <div align="center">
