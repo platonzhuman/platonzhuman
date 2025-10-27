@@ -1,13 +1,13 @@
 <h1 align="center">Привет всем 👋, я Платон</h1>
 <h3 align="center">Кто я и зачем я?</h3>
 
--  Мой последний проект: [Анализ рынка недвижимости с помощью ML](https://github.com/your-username/your-project)
--  Я регулярно пишу посты в моем [Telegram-канале](https://t.me/your_channel) о Data Science и визуализации.
--  Цель на 2024: Внести вклад в крупный Open Source проект.
--  Отдыхаю за: Игрой на гитаре и походами в горы.
+-  Я люблю твоирть за идею!
+-  Не люблю, когда приоритет у человека = деньги.
+-  Люблю программировать и отдыхать.
+-  Отдыхаю за: Машиной и на природе.
 
 
-###  Где меня найти:
+
 <div align="center">
   
 ![Tokyo Night](https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&duration=4000&color=FF6B9D&center=true&vCenter=true&width=600&lines=🌸+WELCOME+TO+MY+PROFILE+🌸)
@@ -18,7 +18,13 @@
 
 <div style="position: relative; background: linear-gradient(45deg, #0a0a0a, #1a1a2e, #16213e); background-size: 400% 400%; animation: gradient 15s ease infinite; padding: 20px; border-radius: 15px;">
 
+
+
+
+
 # Меня зовут: Платон!
+
+
 
 ## ИЗУЧАЮ HTML/CSS/PYTHON/JS/C++
 ### WELCOM
