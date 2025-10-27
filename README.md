@@ -73,8 +73,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=platonzhuman&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF6B9D&text_color=ffffff&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PlatonZhuman&show_icons=true&theme=gruvbox&bg_color=0d1117&title_color=FF9900&text_color=ffffff&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=platonzhuman&layout=compact&theme=dark&bg_color=0d1117&title_color=FF6B9D&text_color=ffffff&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PlatonZhuman&layout=compact&theme=gruvbox&bg_color=0d1117&title_color=FF9900&text_color=ffffff&hide_border=true&langs_count=6)
 
 </div>
